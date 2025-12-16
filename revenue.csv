@@ -1,0 +1,636 @@
+﻿StoreID,StoreName,FirstOrderDate,LastOrderDate,TradingDurationDays,TotalRevenue
+412,Gasless Cycle Shop,00:00.0,00:00.0,1004,68327866.32
+512,Metal Processing Company,00:00.0,00:00.0,1004,68327866.32
+592,Retail Mall,00:00.0,00:00.0,1005,68327866.32
+608,Two-Wheeled Transit Company,00:00.0,00:00.0,1004,68327866.32
+648,Corner Bicycle Supply,00:00.0,00:00.0,1004,68327866.32
+780,Finer Riding Supplies,00:00.0,00:00.0,1004,68327866.32
+794,Rewarding Activities Company,00:00.0,00:00.0,1004,68327866.32
+812,Sundry Sporting Goods,00:00.0,00:00.0,1004,68327866.32
+828,Vigorous Exercise Company,00:00.0,00:00.0,1004,68327866.32
+852,Original Bicycle Supply Company,00:00.0,00:00.0,1005,68327866.32
+908,General Bike Corporation,00:00.0,00:00.0,1005,68327866.32
+970,Primary Bike Distributors,00:00.0,00:00.0,1004,68327866.32
+998,Greater Bike Store,00:00.0,00:00.0,1004,68327866.32
+1322,Rapid Bikes,00:00.0,00:00.0,1004,68327866.32
+1418,"Health Spa, Limited",00:00.0,00:00.0,1005,68327866.32
+1882,Red Bicycle Company,00:00.0,00:00.0,1005,68327866.32
+1946,Swift Cycles,00:00.0,00:00.0,1004,64398908.52
+1992,Totes & Baskets Company,00:00.0,00:00.0,1004,64398908.52
+1414,Bike Dealers Association,00:00.0,00:00.0,1005,64398908.52
+1296,Trailblazing Sports,00:00.0,00:00.0,1004,64398908.52
+1066,Small Bike Shop,00:00.0,00:00.0,1004,64398908.52
+1134,Highway Bike Shop,00:00.0,00:00.0,1004,64398908.52
+1214,Sturdy Toys,00:00.0,00:00.0,1004,64398908.52
+1204,Racing Toys,00:00.0,00:00.0,1004,64398908.52
+900,Basic Sports Equipment,00:00.0,00:00.0,1004,64398908.52
+816,Farthermost Bike Shop,00:00.0,00:00.0,1004,64398908.52
+788,Paint Supply,00:00.0,00:00.0,1004,64398908.52
+642,Advanced Bike Components,00:00.0,00:00.0,1004,64398908.52
+662,Fitness Toy Store,00:00.0,00:00.0,1005,64398908.52
+496,Grease and Oil Products Company,00:00.0,00:00.0,1005,64398908.52
+370,Resale Services,00:00.0,00:00.0,1004,64398908.52
+372,The Gear Store,00:00.0,00:00.0,1004,64398908.52
+302,Area Bike Accessories,00:00.0,00:00.0,1005,64398908.52
+1828,Major Cycling,00:00.0,00:00.0,914,62633877.46
+1478,Metropolitan Manufacturing,00:00.0,00:00.0,912,59032332.81
+1392,Discount Tours,00:00.0,00:00.0,913,59032332.81
+1056,General Department Stores,00:00.0,00:00.0,1004,56939888.6
+1082,First Cycle Store,00:00.0,00:00.0,1004,53665757.1
+342,Mountain Toy Store,00:00.0,00:00.0,913,53665757.1
+312,Vinyl and Plastic Goods Corporation,00:00.0,00:00.0,1004,51245899.74
+466,Scratch-Resistant Finishes Company,00:00.0,00:00.0,730,51245899.74
+1044,Superb Sales and Repair,00:00.0,00:00.0,1005,51245899.74
+1192,Non-Slip Pedal Company,00:00.0,00:00.0,822,51245899.74
+1182,New and Used Bicycles,00:00.0,00:00.0,1004,47100857.18
+1164,Consolidated Sales,00:00.0,00:00.0,1004,47100857.18
+1090,General Associates,00:00.0,00:00.0,1004,47100857.18
+1046,Better Bike Shop,00:00.0,00:00.0,1005,47100857.18
+1018,Trusted Catalog Store,00:00.0,00:00.0,1005,47100857.18
+1350,Every Bike Shop,00:00.0,00:00.0,1004,47100857.18
+752,Elemental Sporting Goods,00:00.0,00:00.0,1004,47100857.18
+814,Excellent Riding Supplies,00:00.0,00:00.0,1004,47100857.18
+826,Bike Goods ,00:00.0,00:00.0,1004,47100857.18
+928,Rural Cycle Emporium,00:00.0,00:00.0,639,45551910.88
+864,Price-Cutter Discount Bikes,00:00.0,00:00.0,1004,45551910.88
+738,Sixth Bike Store,00:00.0,00:00.0,638,45551910.88
+768,Citywide Service and Repair,00:00.0,00:00.0,640,45551910.88
+732,Urban Sports Emporium,00:00.0,00:00.0,639,45551910.88
+668,General Cycle Storehouse,00:00.0,00:00.0,638,45551910.88
+622,Bikes and Motorbikes,00:00.0,00:00.0,639,45551910.88
+510,Bikes for Two,00:00.0,00:00.0,639,45551910.88
+562,Custom Accessories Company,00:00.0,00:00.0,639,45551910.88
+324,Valley Toy Store,00:00.0,00:00.0,639,45551910.88
+356,Serious Cycles,00:00.0,00:00.0,822,45551910.88
+428,Finer Cycle Shop,00:00.0,00:00.0,639,45551910.88
+1340,Cycle Merchants,00:00.0,00:00.0,639,45551910.88
+1394,Tire Exchange,00:00.0,00:00.0,639,45551910.88
+1312,National Manufacturing,00:00.0,00:00.0,638,45551910.88
+1444,Remote Bicycle Specialists,00:00.0,00:00.0,639,45551910.88
+1406,Professional Cyclists,00:00.0,00:00.0,638,45551910.88
+1430,Leather Seat Factory,00:00.0,00:00.0,640,45551910.88
+1840,Top Sports Supply,00:00.0,00:00.0,640,45551910.88
+1864,Plastic Parts Company,00:00.0,00:00.0,912,45551910.88
+1798,One Bike Company,00:00.0,00:00.0,639,45551910.88
+1816,Famous Bike Shop,00:00.0,00:00.0,639,45551910.88
+1040,Family Cycle Store,00:00.0,00:00.0,639,45551910.88
+986,Metro Manufacturing,00:00.0,00:00.0,639,45551910.88
+948,Standard Bikes,00:00.0,00:00.0,639,45551910.88
+1162,Bikes for Kids and Adults,00:00.0,00:00.0,640,45551910.88
+1200,General Supplies,00:00.0,00:00.0,639,45551910.88
+1236,Twelfth Bike Store,00:00.0,00:00.0,639,45551910.88
+1988,Retreat Inn,00:00.0,00:00.0,639,45551910.88
+1896,Tenth Bike Store,00:00.0,00:00.0,638,45551910.88
+1086,Seventh Bike Store,00:00.0,00:00.0,1005,43285787.25
+1356,Larger Cycle Shop,00:00.0,00:00.0,1004,43285787.25
+344,Retail Sales and Service,00:00.0,00:00.0,1004,43285787.25
+544,Painters Bicycle Specialists,00:00.0,00:00.0,1004,43285787.25
+728,Wholesale Bikes,00:00.0,00:00.0,1004,43285787.25
+832,Lease-a-Bike Shop,00:00.0,00:00.0,1004,43285787.25
+846,Super Sports Store,00:00.0,00:00.0,1004,43285787.25
+1362,Metro Bike Mart,00:00.0,00:00.0,1004,43175785.75
+1310,Unified Sports Company,00:00.0,00:00.0,1004,43175785.75
+1456,Sunny Place Bikes,00:00.0,00:00.0,912,43175785.75
+1836,Extraordinary Bike Works,00:00.0,00:00.0,639,42932605.68
+1254,Mountain Bike Center,00:00.0,00:00.0,639,42932605.68
+1256,Specialty Sports Store,00:00.0,00:00.0,640,42932605.68
+1278,Many Bikes Store,00:00.0,00:00.0,639,42932605.68
+1334,Chic Department Stores,00:00.0,00:00.0,639,42932605.68
+1336,Eastside Department Store,00:00.0,00:00.0,639,42932605.68
+1376,Sports Products Store,00:00.0,00:00.0,639,42932605.68
+1108,Affordable Sports Equipment,00:00.0,00:00.0,638,42932605.68
+1184,Separate Parts Corporation,00:00.0,00:00.0,639,42932605.68
+950,The Bicycle Accessories Company,00:00.0,00:00.0,639,42932605.68
+958,Big-Time Bike Store,00:00.0,00:00.0,639,42932605.68
+932,Modular Cycle Systems,00:00.0,00:00.0,640,42932605.68
+976,Genial Bike Associates,00:00.0,00:00.0,639,42932605.68
+1002,Distant Inn,00:00.0,00:00.0,640,42932605.68
+1014,Bike World,00:00.0,00:00.0,639,42932605.68
+1026,Metropolitan Sports Supply,00:00.0,00:00.0,639,42932605.68
+848,Satin Finish Company,00:00.0,00:00.0,639,42932605.68
+790,Preferred Bikes,00:00.0,00:00.0,638,42932605.68
+874,Real Sporting Goods,00:00.0,00:00.0,640,42932605.68
+914,Social Activities Club,00:00.0,00:00.0,1004,42932605.68
+776,Principal Bike Company,00:00.0,00:00.0,639,42932605.68
+742,Vehicle Shop,00:00.0,00:00.0,913,42932605.68
+556,Mechanical Products Ltd.,00:00.0,00:00.0,639,42932605.68
+598,Sheet Metal Manufacturing,00:00.0,00:00.0,639,42932605.68
+570,Professional Cycle Store,00:00.0,00:00.0,640,42932605.68
+506,Third Bike Store,00:00.0,00:00.0,639,42932605.68
+474,Number 1 Supply,00:00.0,00:00.0,639,42932605.68
+478,Golf and Cycle Store,00:00.0,00:00.0,638,42932605.68
+484,World Bike Discount Store,00:00.0,00:00.0,914,42932605.68
+492,Coalition Bike Company,00:00.0,00:00.0,639,42932605.68
+398,Grand Bicycle Stores,00:00.0,00:00.0,639,42932605.68
+1944,Quantity Discounts,00:00.0,00:00.0,639,42932605.68
+1968,Solid Bike Parts,00:00.0,00:00.0,638,42932605.68
+332,Family's Favorite Bike Shop,00:00.0,00:00.0,639,39857922.02
+1132,General Industries,00:00.0,00:00.0,639,39857922.02
+298,The Bike Mechanics,00:00.0,00:00.0,1004,39678638.31
+716,Famous Bike Sales and Service,00:00.0,00:00.0,913,39678638.31
+764,Fashionable Bikes and Accessories,00:00.0,00:00.0,1004,39584333.93
+318,Great Bikes ,00:00.0,00:00.0,1005,39584333.93
+368,Brightwork Company,00:00.0,00:00.0,1004,39584333.93
+498,Moderately-Priced Bikes Store,00:00.0,00:00.0,1004,39584333.93
+518,Latest Sports Equipment,00:00.0,00:00.0,1005,39584333.93
+600,Thorough Parts and Repair Services,00:00.0,00:00.0,1004,39584333.93
+1016,Central Discount Store,00:00.0,00:00.0,1004,39584333.93
+1032,Brakes and Gears,00:00.0,00:00.0,1004,39584333.93
+1970,Permanent Finish Products,00:00.0,00:00.0,1004,39584333.93
+1900,Fun Times Club,00:00.0,00:00.0,1004,38460168.92
+1050,First Bike Store,00:00.0,00:00.0,1005,38460168.92
+1332,Catalog Store,00:00.0,00:00.0,1004,38460168.92
+392,Small Cycle Store,00:00.0,00:00.0,1005,38460168.92
+296,Riders Company,00:00.0,00:00.0,1004,38460168.92
+672,Good Bike Shop,00:00.0,00:00.0,1004,38460168.92
+694,Genuine Bike Shop,00:00.0,00:00.0,821,37566029.97
+526,Futuristic Bikes,00:00.0,00:00.0,639,37566029.97
+1838,Valley Bicycle Distributors,00:00.0,00:00.0,547,37566029.97
+1458,Alpine Ski House,00:00.0,00:00.0,546,37566029.97
+966,The New Bike Store,00:00.0,00:00.0,547,37566029.97
+388,Remarkable Bike Store,00:00.0,00:00.0,913,36285639.43
+1344,Exotic Bikes,00:00.0,00:00.0,1004,36071489.37
+1338,Sports Sales and Rental,00:00.0,00:00.0,1005,35325642.89
+654,Ultimate Bike Shop,00:00.0,00:00.0,1004,35325642.89
+348,Bold Bike Accessories,00:00.0,00:00.0,1004,35255154.84
+806,Certified Sports Supply,00:00.0,00:00.0,1004,34163933.16
+844,Future Bikes,00:00.0,00:00.0,548,34163933.16
+1364,Tandem Sales and Service,00:00.0,00:00.0,456,34163933.16
+1368,Reliable Retail Center,00:00.0,00:00.0,639,34163933.16
+612,Metro Cycle Shop,00:00.0,00:00.0,1004,32986944.94
+574,Fifth Bike Store,00:00.0,00:00.0,1005,32986944.94
+536,Nonskid Tire Company,00:00.0,00:00.0,912,32986944.94
+520,Modern Bike Store,00:00.0,00:00.0,912,32464340.43
+1948,Classic Cycle Store,00:00.0,00:00.0,913,32464340.43
+1136,Rental Bikes,00:00.0,00:00.0,822,32199454.26
+1092,Good Toys,00:00.0,00:00.0,639,32199454.26
+494,Travel Systems,00:00.0,00:00.0,1004,32050140.77
+568,Hobby Store,00:00.0,00:00.0,640,31400571.45
+340,eCommerce Bikes,00:00.0,00:00.0,638,31400571.45
+366,Activity Center,00:00.0,00:00.0,640,31400571.45
+414,Lubricant and Grease Suppliers,00:00.0,00:00.0,639,31400571.45
+440,Juvenile Sports Equipment,00:00.0,00:00.0,639,31400571.45
+792,Rally Day Mall,00:00.0,00:00.0,640,31400571.45
+798,Sales and Supply Company,00:00.0,00:00.0,639,31400571.45
+734,Superlative Bikes,00:00.0,00:00.0,639,31400571.45
+1202,Noiseless Gear Company,00:00.0,00:00.0,639,31400571.45
+988,Manufacturers Inc,00:00.0,00:00.0,639,31400571.45
+1898,Valuable Bike Parts Company,00:00.0,00:00.0,640,31400571.45
+1918,Simple Bike Parts,00:00.0,00:00.0,1005,31400571.45
+1924,Bike Products and Accessories,00:00.0,00:00.0,639,31400571.45
+1246,Finer Parts Shop,00:00.0,00:00.0,913,29688250.44
+880,The Bike Shop,00:00.0,00:00.0,1005,29688250.44
+878,Bicycle Outfitters,00:00.0,00:00.0,638,28857191.5
+786,Outdoor Equipment Store,00:00.0,00:00.0,639,28857191.5
+820,Weekend Tours,00:00.0,00:00.0,639,28857191.5
+692,Grand Discount Store,00:00.0,00:00.0,640,28857191.5
+664,Casual Bicycle Store,00:00.0,00:00.0,640,28857191.5
+422,Bike Boutique,00:00.0,00:00.0,639,28857191.5
+320,Metropolitan Sales and Rental,00:00.0,00:00.0,1004,28857191.5
+1052,Traditional Department Stores,00:00.0,00:00.0,639,28857191.5
+1316,Wheelsets Storehouse,00:00.0,00:00.0,639,28857191.5
+1450,Guaranteed Sales and Service,00:00.0,00:00.0,639,28857191.5
+1422,Fashionable Department Stores,00:00.0,00:00.0,639,28857191.5
+1936,Active Transport Inc.,00:00.0,00:00.0,1004,28857191.5
+1878,Immediate Repair Shop,00:00.0,00:00.0,640,28857191.5
+1868,Executive Gift Store,00:00.0,00:00.0,639,28857191.5
+418,Transportation Options,00:00.0,00:00.0,457,28469944.3
+886,Our Sporting Goods Store,00:00.0,00:00.0,639,28469944.3
+620,Tandem Bicycle Store,00:00.0,00:00.0,547,27475500.02
+766,Extreme Toy Store,00:00.0,00:00.0,639,27475500.02
+292,Next-Door Bike Store,00:00.0,00:00.0,638,27475500.02
+326,Worthwhile Activity Store,00:00.0,00:00.0,640,27475500.02
+1096,Retail Toy Store,00:00.0,00:00.0,730,27475500.02
+1216,Beneficial Exercises and Activities,00:00.0,00:00.0,547,26832878.55
+1186,Basic Bike Company,00:00.0,00:00.0,914,26389555.95
+1174,Sure & Reliable Sporting Goods,00:00.0,00:00.0,638,26389555.95
+1150,Certified Bicycle Supply,00:00.0,00:00.0,639,26389555.95
+1028,Progressive Sports,00:00.0,00:00.0,639,26389555.95
+938,Two Bike Shops,00:00.0,00:00.0,639,26389555.95
+1424,Closeout Boutique,00:00.0,00:00.0,639,26389555.95
+1470,All Cycle Shop,00:00.0,00:00.0,640,26389555.95
+1290,Frugal Bike Shop,00:00.0,00:00.0,639,26389555.95
+1388,Official Parts Shop,00:00.0,00:00.0,640,26389555.95
+1320,Security Racks and Locks Wholesalers,00:00.0,00:00.0,639,26389555.95
+472,Safe Cycles Shop,00:00.0,00:00.0,639,26389555.95
+744,First Department Stores,00:00.0,00:00.0,640,26389555.95
+762,Friendly Bike Shop,00:00.0,00:00.0,640,26389555.95
+892,Coho Sports,00:00.0,00:00.0,639,26389555.95
+802,Successful Sales Company,00:00.0,00:00.0,639,26389555.95
+1982,Mail-Order Outlet,00:00.0,00:00.0,639,26389555.95
+1966,Convenient Sales and Service,00:00.0,00:00.0,639,26389555.95
+1976,Exhilarating Cycles,00:00.0,00:00.0,640,25640112.61
+1994,World of Bikes,00:00.0,00:00.0,639,25640112.61
+746,Grand Sport Boutique,00:00.0,00:00.0,639,25640112.61
+638,Responsible Bike Dealers,00:00.0,00:00.0,639,25640112.61
+684,This Area Sporting Goods,00:00.0,00:00.0,640,25640112.61
+452,Field Trip Inc,00:00.0,00:00.0,638,25640112.61
+516,Initial Bike Company,00:00.0,00:00.0,639,25640112.61
+546,Client Discount Store,00:00.0,00:00.0,639,25640112.61
+382,Work and Play Association,00:00.0,00:00.0,639,25640112.61
+1346,Fitness Hotel,00:00.0,00:00.0,639,25640112.61
+1266,Reasonable Bicycle Sales,00:00.0,00:00.0,639,25640112.61
+1822,Gift and Toy Store,00:00.0,00:00.0,640,25640112.61
+1858,Bicycle Lines Distributors,00:00.0,00:00.0,639,25640112.61
+954,Futuristic Sport Distributors,00:00.0,00:00.0,640,25640112.61
+1188,"Fabrikam Inc., West",00:00.0,00:00.0,639,25640112.61
+1242,Field Trip Store,00:00.0,00:00.0,639,25640112.61
+1074,Recreation Systems,00:00.0,00:00.0,639,25250042.56
+584,Curbside Universe,00:00.0,00:00.0,639,25250042.56
+604,Mechanical Sports Center,00:00.0,00:00.0,639,25250042.56
+634,Riverside Company,00:00.0,00:00.0,639,25250042.56
+650,Distance Bikes,00:00.0,00:00.0,639,23550428.59
+722,Pedals Warehouse,00:00.0,00:00.0,1005,23550428.59
+698,Bike Rims Company,00:00.0,00:00.0,639,23550428.59
+898,Tough and Reliable Parts,00:00.0,00:00.0,730,23550428.59
+818,Suburban Cycle Shop,00:00.0,00:00.0,730,23090861.46
+822,Racing Bike Outlet,00:00.0,00:00.0,547,23090861.46
+1068,Superior Hardware Distributors,00:00.0,00:00.0,639,23090861.46
+1048,Countryside Company,00:00.0,00:00.0,548,23090861.46
+1218,Fad Outlet,00:00.0,00:00.0,639,23090861.46
+1138,Roving Sports,00:00.0,00:00.0,640,23090861.46
+1412,City Manufacturing,00:00.0,00:00.0,547,23090861.46
+1438,Some Discount Store,00:00.0,00:00.0,914,23090861.46
+1270,Outdoor Sports Supply,00:00.0,00:00.0,549,23090861.46
+1252,Up-To-Date Sports,00:00.0,00:00.0,274,22775955.44
+1276,Metal Clearing House,00:00.0,00:00.0,274,22775955.44
+1298,Racing Partners,00:00.0,00:00.0,274,22775955.44
+1352,Grand Industries,00:00.0,00:00.0,274,22775955.44
+1476,Low Price Cycles,00:00.0,00:00.0,274,22775955.44
+1130,Efficient Cycling,00:00.0,00:00.0,274,22775955.44
+1156,Leisure Activities,00:00.0,00:00.0,273,22775955.44
+1238,Consolidated Messenger,00:00.0,00:00.0,274,22775955.44
+1166,Home Town Bike Store,00:00.0,00:00.0,274,22775955.44
+1022,Sharp Bikes,00:00.0,00:00.0,273,22775955.44
+960,The Showroom,00:00.0,00:00.0,912,22775955.44
+1010,Cross-Country Riding Supplies,00:00.0,00:00.0,273,22775955.44
+980,Wholesale Parts,00:00.0,00:00.0,273,22775955.44
+782,Neighborhood Store,00:00.0,00:00.0,273,22775955.44
+896,Quick Delivery Service,00:00.0,00:00.0,273,22775955.44
+708,South Bike Company,00:00.0,00:00.0,274,22775955.44
+720,Machines & Cycles Store,00:00.0,00:00.0,275,22775955.44
+618,Petroleum Products Distributors,00:00.0,00:00.0,274,22775955.44
+626,Camping and Sports Store,00:00.0,00:00.0,274,22775955.44
+580,Farthest Bike Store,00:00.0,00:00.0,274,22775955.44
+566,Courteous Bicycle Specialists,00:00.0,00:00.0,274,22775955.44
+552,Requisite Part Supply,00:00.0,00:00.0,274,22775955.44
+438,First-Rate Outlet,00:00.0,00:00.0,273,22775955.44
+464,Odometers and Accessories Company,00:00.0,00:00.0,274,22775955.44
+490,Commuter Bicycle Store,00:00.0,00:00.0,274,22775955.44
+380,Workout Emporium,00:00.0,00:00.0,274,22775955.44
+386,Nice Bikes,00:00.0,00:00.0,273,22775955.44
+346,Designated Distributors,00:00.0,00:00.0,273,22775955.44
+1972,Mercantile Outlet,00:00.0,00:00.0,273,22775955.44
+1940,Fasteners & Bolts Outlet,00:00.0,00:00.0,274,22775955.44
+1928,Quick Parts and Service,00:00.0,00:00.0,274,22775955.44
+1916,Active Life Toys,00:00.0,00:00.0,273,22775955.44
+540,Metro Bike Works,00:00.0,00:00.0,639,22435098.54
+1480,Orange Bicycle Company,00:00.0,00:00.0,639,22435098.54
+1372,Friendly Bike Shop,00:00.0,00:00.0,547,22435098.54
+1404,Rally Master Company Inc,00:00.0,00:00.0,275,21466302.84
+1330,Elite Bikes,00:00.0,00:00.0,273,21466302.84
+1294,Go-cart and Bike Specialists,00:00.0,00:00.0,274,21466302.84
+1426,Bicycle Merchandise Warehouse,00:00.0,00:00.0,273,21466302.84
+1490,Engineered Bike Systems,00:00.0,00:00.0,274,21466302.84
+1796,Professional Containers and Packaging Co.,00:00.0,00:00.0,273,21466302.84
+1812,Maintenance and Repair for Bicycles,00:00.0,00:00.0,274,21466302.84
+1860,Sparkling Paint and Finishes,00:00.0,00:00.0,273,21466302.84
+1850,Wheel Gallery,00:00.0,00:00.0,274,21466302.84
+990,Locks Company,00:00.0,00:00.0,274,21466302.84
+978,Commercial Sporting Goods,00:00.0,00:00.0,273,21466302.84
+936,Journey Sporting Goods,00:00.0,00:00.0,273,21466302.84
+1146,Vale Riding Supplies,00:00.0,00:00.0,275,21466302.84
+1100,All Seasons Sports Supply,00:00.0,00:00.0,275,21466302.84
+450,Unsurpassed Bikes,00:00.0,00:00.0,274,21466302.84
+316,Fun Toys and Bikes,00:00.0,00:00.0,274,21466302.84
+338,Systematic Sales,00:00.0,00:00.0,274,21466302.84
+294,Professional Sales and Service,00:00.0,00:00.0,274,21466302.84
+376,Extended Bike Sales,00:00.0,00:00.0,273,21466302.84
+630,Rural Department Store,00:00.0,00:00.0,275,21466302.84
+652,Westside Plaza,00:00.0,00:00.0,275,21466302.84
+644,Aerobic Exercise Company,00:00.0,00:00.0,274,21466302.84
+696,Extreme Riding Supplies,00:00.0,00:00.0,274,21466302.84
+682,Thrilling Bike Tours,00:00.0,00:00.0,274,21466302.84
+670,Fitness Cycling,00:00.0,00:00.0,275,21466302.84
+724,Two Wheels Cycle Store,00:00.0,00:00.0,273,21466302.84
+754,Distinctive Store,00:00.0,00:00.0,273,21466302.84
+902,Cash & Carry Bikes,00:00.0,00:00.0,547,21466302.84
+862,Retail Sporting Equipment,00:00.0,00:00.0,273,21466302.84
+882,Safe Toys,00:00.0,00:00.0,273,21466302.84
+800,Stationary Bikes and Stands,00:00.0,00:00.0,273,21466302.84
+1932,Thrifty Parts and Sales,00:00.0,00:00.0,274,21466302.84
+1934,A Typical Bike Shop,00:00.0,00:00.0,273,21466302.84
+1870,Big Cycle Mall,00:00.0,00:00.0,274,21466302.84
+1874,Eighth Bike Store,00:00.0,00:00.0,274,21466302.84
+1886,Trendy Department Stores,00:00.0,00:00.0,274,21466302.84
+1978,Exercise Center,00:00.0,00:00.0,273,21466302.84
+1956,Wire Baskets and Parts,00:00.0,00:00.0,273,21466302.84
+1990,Technical Parts Manufacturing,00:00.0,00:00.0,275,21466302.84
+1876,Demand Distributors,00:00.0,00:00.0,731,19792166.96
+558,Commendable Bikes,00:00.0,00:00.0,640,19792166.96
+964,Year-Round Sports,00:00.0,00:00.0,457,19792166.96
+1862,Racing Association,00:00.0,00:00.0,640,19625357.16
+1428,Spoke Manufacturers,00:00.0,00:00.0,365,19625357.16
+362,Distinctive Cycles Sales & Service,00:00.0,00:00.0,1004,19625357.16
+740,Touring Services,00:00.0,00:00.0,821,19625357.16
+308,Valley Bicycle Specialists,00:00.0,00:00.0,548,19230084.46
+1148,A Great Bicycle Company,00:00.0,00:00.0,821,19230084.46
+1142,Major Amusement Company,00:00.0,00:00.0,639,19172318.08
+1114,Community Department Stores,00:00.0,00:00.0,639,19172318.08
+962,Spa and Exercise Outfitters,00:00.0,00:00.0,639,19172318.08
+982,Steel Inc.,00:00.0,00:00.0,640,19172318.08
+1830,Getaway Inn,00:00.0,00:00.0,639,19172318.08
+1842,Racing Sales and Service,00:00.0,00:00.0,639,19172318.08
+1486,Rural Mountain Bike Mart,00:00.0,00:00.0,639,19172318.08
+1234,Spare Parts Co.,00:00.0,00:00.0,640,19172318.08
+1400,Finished Parts Shop,00:00.0,00:00.0,639,19172318.08
+808,Registered Cycle Store,00:00.0,00:00.0,639,19172318.08
+1962,Metropolitan Equipment,00:00.0,00:00.0,639,19172318.08
+1986,Recreation Toy Store,00:00.0,00:00.0,640,19172318.08
+454,Tire Company,00:00.0,00:00.0,730,18035744.69
+1852,Top Bike Market,00:00.0,00:00.0,274,17081966.58
+1078,Eastside Parts Shop,00:00.0,00:00.0,274,17081966.58
+1112,Economy Center,00:00.0,00:00.0,549,17081966.58
+1274,Self-Contained Cycle Parts Company,00:00.0,00:00.0,639,16775778.32
+1324,Metro Sports Equipment,00:00.0,00:00.0,639,16775778.32
+992,Latest Accessories Sales,00:00.0,00:00.0,639,16493472.47
+1244,Finish and Sealant Products,00:00.0,00:00.0,273,16099727.13
+1318,Town Industries,00:00.0,00:00.0,274,16099727.13
+1306,Two-Seater Bikes,00:00.0,00:00.0,274,16099727.13
+1308,More Bikes!,00:00.0,00:00.0,273,16099727.13
+1814,Fitness Department Stores,00:00.0,00:00.0,184,16099727.13
+504,Economy Bikes Company,00:00.0,00:00.0,273,16099727.13
+614,Outdoor Sporting Goods,00:00.0,00:00.0,184,16099727.13
+700,Fleet Bikes,00:00.0,00:00.0,273,16099727.13
+760,Handy Bike Services,00:00.0,00:00.0,1004,16025070.38
+524,Lots of Bikes Storehouse,00:00.0,00:00.0,912,16025070.38
+1448,Friendly Neighborhood Bikes,00:00.0,00:00.0,366,16025070.38
+1280,Largest Bike Store,00:00.0,00:00.0,546,16025070.38
+1374,Yellow Bicycle Company,00:00.0,00:00.0,914,16025070.38
+1170,Sample Bike Store,00:00.0,00:00.0,365,16025070.38
+1034,The Accessories Store,00:00.0,00:00.0,365,16025070.38
+1024,Exemplary Cycles,00:00.0,00:00.0,274,15700285.73
+1030,Underglaze and Finish Company,00:00.0,00:00.0,274,15700285.73
+1080,Exchange Parts Inc.,00:00.0,00:00.0,274,15700285.73
+1064,Retread Tire Company,00:00.0,00:00.0,273,15700285.73
+1000,Games and Sport Supply Company,00:00.0,00:00.0,274,15700285.73
+1168,Optimal Bikes,00:00.0,00:00.0,273,15700285.73
+1240,Daring Rides,00:00.0,00:00.0,274,15700285.73
+1378,Selected Distributors,00:00.0,00:00.0,273,15700285.73
+1468,Village Tours,00:00.0,00:00.0,273,15700285.73
+1416,Pedal Systems Company,00:00.0,00:00.0,273,15700285.73
+502,Eighty Toy Stores,00:00.0,00:00.0,274,15700285.73
+476,Industrial Supplies,00:00.0,00:00.0,274,15700285.73
+480,Front Runner Bikes,00:00.0,00:00.0,274,15700285.73
+616,Tread Industries,00:00.0,00:00.0,273,15700285.73
+554,Racks and Security Systems,00:00.0,00:00.0,274,15700285.73
+310,New Bikes Company,00:00.0,00:00.0,273,15700285.73
+306,Clamps & Brackets Co.,00:00.0,00:00.0,274,15700285.73
+334,Global Plaza,00:00.0,00:00.0,273,15700285.73
+352,Tiny Bike Boutique,00:00.0,00:00.0,273,15700285.73
+354,Acclaimed Bicycle Company,00:00.0,00:00.0,274,15700285.73
+364,Leading Bike Distributors,00:00.0,00:00.0,274,15700285.73
+394,Blue-Ribbon Bike Company,00:00.0,00:00.0,274,15700285.73
+710,Wonderful Bikes Inc.,00:00.0,00:00.0,273,15700285.73
+884,Qualified Sales and Repair Services,00:00.0,00:00.0,273,15700285.73
+910,Quitting Business Distributors,00:00.0,00:00.0,274,15700285.73
+1884,Retirement Activities Association,00:00.0,00:00.0,912,15700285.73
+1930,Reliable Brake Systems,00:00.0,00:00.0,273,15700285.73
+904,Convenient Bike Shop,00:00.0,00:00.0,274,14428595.75
+704,Only Bikes and Accessories,00:00.0,00:00.0,273,14428595.75
+772,Professional Sporting Goods,00:00.0,00:00.0,275,14428595.75
+444,Fourth Bike Store,00:00.0,00:00.0,274,14428595.75
+328,Purchase Mart,00:00.0,00:00.0,274,14428595.75
+548,Eastside Sporting Goods,00:00.0,00:00.0,274,14428595.75
+1434,Endurance Bikes,00:00.0,00:00.0,274,14428595.75
+1462,Small Bike Accessories Shop,00:00.0,00:00.0,274,14428595.75
+1856,Grown-up Bike Store,00:00.0,00:00.0,274,14428595.75
+1248,Glossy Bikes,00:00.0,00:00.0,274,14428595.75
+994,Incomparable Bicycle Store,00:00.0,00:00.0,274,14428595.75
+974,Leather and Vinyl Manufacturing,00:00.0,00:00.0,273,14428595.75
+1070,Fitness Sport Boutique,00:00.0,00:00.0,273,14428595.75
+1036,Mountain Bike Store,00:00.0,00:00.0,275,14428595.75
+1154,Instant Cycle Store,00:00.0,00:00.0,640,14379238.56
+628,Ace Bicycle Supply,00:00.0,00:00.0,639,14379238.56
+632,Sports Commodities,00:00.0,00:00.0,273,13194777.98
+640,Western Bike Supplies,00:00.0,00:00.0,274,13194777.98
+656,Outstanding Cycles,00:00.0,00:00.0,274,13194777.98
+660,Sports Merchandise,00:00.0,00:00.0,274,13194777.98
+774,Rugged Bikes,00:00.0,00:00.0,274,13194777.98
+930,Associated Bikes,00:00.0,00:00.0,274,13194777.98
+870,Vast Bike Sales and Rental,00:00.0,00:00.0,273,13194777.98
+858,Roadway Bike Emporium,00:00.0,00:00.0,275,13194777.98
+804,Downtown Hotel,00:00.0,00:00.0,273,13194777.98
+824,Utilitarian Sporting Goods,00:00.0,00:00.0,274,13194777.98
+838,Stock Parts and Supplies,00:00.0,00:00.0,274,13194777.98
+522,Raw Materials Inc,00:00.0,00:00.0,273,13194777.98
+330,Major Sport Suppliers,00:00.0,00:00.0,275,13194777.98
+442,Another Bicycle Company,00:00.0,00:00.0,274,13194777.98
+1230,Fitness Supplies,00:00.0,00:00.0,274,13194777.98
+1206,Capable Sales and Service,00:00.0,00:00.0,274,13194777.98
+1084,Running and Cycling Gear,00:00.0,00:00.0,274,13194777.98
+1004,Finer Mart,00:00.0,00:00.0,274,13194777.98
+934,A Bike Store,00:00.0,00:00.0,273,13194777.98
+1834,Bike Experts,00:00.0,00:00.0,273,13194777.98
+1846,Honest Repair Service,00:00.0,00:00.0,275,13194777.98
+1804,Cycle Clearance,00:00.0,00:00.0,274,13194777.98
+1808,Transport Bikes,00:00.0,00:00.0,274,13194777.98
+1810,Sellers of Cycles,00:00.0,00:00.0,274,13194777.98
+1482,Riding Associates,00:00.0,00:00.0,274,13194777.98
+1328,Front Sporting Goods,00:00.0,00:00.0,273,13194777.98
+1282,Kickstands and Accessories Company,00:00.0,00:00.0,274,13194777.98
+1258,Scooters and Bikes Store,00:00.0,00:00.0,273,13194777.98
+1304,Authorized Bike Sales and Rental,00:00.0,00:00.0,274,13194777.98
+1292,Family Entertainment Center,00:00.0,00:00.0,274,13194777.98
+1888,Vintage Sport Boutique,00:00.0,00:00.0,275,13194777.98
+1890,Travel Sports,00:00.0,00:00.0,274,13194777.98
+1984,Nearby Cycle Shop,00:00.0,00:00.0,639,13086587.17
+1398,Oils and Fluids Warehouse,00:00.0,00:00.0,639,13086587.17
+1472,Tachometers and Accessories,00:00.0,00:00.0,639,13086587.17
+1802,Cycling Goods,00:00.0,00:00.0,639,13086587.17
+1844,Metropolitan Bicycle Supply,00:00.0,00:00.0,639,13086587.17
+944,Number One Bike Co.,00:00.0,00:00.0,640,13086587.17
+1220,Commerce Bicycle Specialists,00:00.0,00:00.0,639,13086587.17
+432,Bulk Discount Store,00:00.0,00:00.0,639,13086587.17
+534,Prosperous Tours,00:00.0,00:00.0,640,13086587.17
+602,Uttermost Bike Shop,00:00.0,00:00.0,639,13086587.17
+542,Best o' Bikes,00:00.0,00:00.0,275,12820056.31
+488,Historic Bicycle Sales,00:00.0,00:00.0,274,12820056.31
+374,Immense Manufacturing Company,00:00.0,00:00.0,274,12820056.31
+360,Novelty Bikes,00:00.0,00:00.0,274,12820056.31
+860,Sleek Bikes ,00:00.0,00:00.0,274,12820056.31
+872,Summer Sports Place,00:00.0,00:00.0,456,12820056.31
+702,Local Hardware Factory,00:00.0,00:00.0,273,12820056.31
+726,Westside Cycle Store,00:00.0,00:00.0,365,12820056.31
+686,Full-Service Bike Store,00:00.0,00:00.0,273,12820056.31
+1228,District Mall,00:00.0,00:00.0,273,12820056.31
+1158,Paints and Solvents Company,00:00.0,00:00.0,274,12820056.31
+1126,Hardware Components,00:00.0,00:00.0,273,12820056.31
+1110,Local Sales and Rental,00:00.0,00:00.0,274,12820056.31
+926,Unique Bikes,00:00.0,00:00.0,273,12820056.31
+1436,Practical Bike Supply Company,00:00.0,00:00.0,638,12820056.31
+1358,Leading Sales & Repair,00:00.0,00:00.0,273,12820056.31
+1980,Great Bicycle Supply,00:00.0,00:00.0,273,12820056.31
+1872,Budget Bike Company,00:00.0,00:00.0,274,11775214.3
+1460,Cycles and Scooters,00:00.0,00:00.0,182,11775214.3
+1012,Stylish Department Stores,00:00.0,00:00.0,182,11775214.3
+658,Vigorous Sports Store,00:00.0,00:00.0,639,11450763.78
+920,General Riding Supplies,00:00.0,00:00.0,455,11387977.72
+1062,Online Bike Warehouse,00:00.0,00:00.0,91,11387977.72
+1106,The Commissary,00:00.0,00:00.0,90,11387977.72
+1212,Road Way Sales and Rental,00:00.0,00:00.0,182,11387977.72
+1224,Acceptable Sales & Service,00:00.0,00:00.0,273,11387977.72
+1454,Recommended Bicycles,00:00.0,00:00.0,181,11387977.72
+1952,Large Bike Shop,00:00.0,00:00.0,184,11387977.72
+890,Expert Sports Store,00:00.0,00:00.0,182,10821446.81
+850,Regional Manufacturing,00:00.0,00:00.0,181,10733151.42
+1824,Major Sporting Goods,00:00.0,00:00.0,89,10733151.42
+1120,Rural Sales and Service,00:00.0,00:00.0,92,10733151.42
+1072,Producer Goods Clearinghouse,00:00.0,00:00.0,275,10463598.33
+1020,Bicycle Warehouse Inc.,00:00.0,00:00.0,274,10463598.33
+876,Versatile Sporting Goods Company,00:00.0,00:00.0,275,10463598.33
+532,North Bike Company,00:00.0,00:00.0,274,10463598.33
+586,Alternative Vehicles,00:00.0,00:00.0,181,9896083.481
+304,Bicycle Accessories and Kits,00:00.0,00:00.0,181,9896083.481
+1118,Synthetic Materials Manufacturing,00:00.0,00:00.0,455,9896083.481
+1910,Wingtip Toys,00:00.0,00:00.0,182,9896083.481
+1410,Exclusive Bicycle Mart,00:00.0,00:00.0,639,9814940.38
+1094,Little Bicycle Supply Shop,00:00.0,00:00.0,274,9615042.23
+952,Active Systems,00:00.0,00:00.0,274,9615042.23
+406,Kickstand Sellers,00:00.0,00:00.0,182,9615042.23
+560,Online Bike Sellers,00:00.0,00:00.0,273,9615042.23
+916,Blue Bicycle Company,00:00.0,00:00.0,549,9615042.23
+854,First Center,00:00.0,00:00.0,274,9586159.04
+590,Full Sports Supply,00:00.0,00:00.0,274,9586159.04
+482,Favorite Toy Distributor,00:00.0,00:00.0,274,9586159.04
+946,Racing Supply Distributors,00:00.0,00:00.0,274,9586159.04
+1210,Pretty Bikes and Toys,00:00.0,00:00.0,274,9586159.04
+1408,Sports Products Store,00:00.0,00:00.0,547,9586159.04
+1474,Cycles Sales and Repair,00:00.0,00:00.0,274,9586159.04
+1396,Racing Tours,00:00.0,00:00.0,274,9586159.04
+1384,Finer Sporting Goods,00:00.0,00:00.0,274,9586159.04
+1380,Impervious Paint Company,00:00.0,00:00.0,274,9586159.04
+1300,Perfect Toys,00:00.0,00:00.0,274,9586159.04
+1262,Roadway Bicycle Supply,00:00.0,00:00.0,274,9586159.04
+1894,The Bike Outlet,00:00.0,00:00.0,274,9586159.04
+1958,Ultimate Bicycle Company,00:00.0,00:00.0,274,9586159.04
+736,Primary Cycle Shop,00:00.0,00:00.0,275,9155648.542
+730,Very Best Sports Supply,00:00.0,00:00.0,274,9155648.542
+706,Rental Gallery,00:00.0,00:00.0,274,9114195.91
+718,First Supplies,00:00.0,00:00.0,275,9114195.91
+666,Fitness Discount Store,00:00.0,00:00.0,275,9114195.91
+676,Inexpensive Parts Shop,00:00.0,00:00.0,274,9114195.91
+688,Plastic Products Manufacturers,00:00.0,00:00.0,275,9114195.91
+624,Budget Toy Store,00:00.0,00:00.0,274,9114195.91
+796,Rich Department Store,00:00.0,00:00.0,274,9114195.91
+784,Online Bike Catalog,00:00.0,00:00.0,274,9114195.91
+456,Uncompromising Quality Co,00:00.0,00:00.0,274,9114195.91
+564,Unusual Bicycle Company,00:00.0,00:00.0,275,9114195.91
+550,Helmets and Cycles,00:00.0,00:00.0,275,9114195.91
+410,Fast Bike Works,00:00.0,00:00.0,274,9114195.91
+384,Seaside Bike Works,00:00.0,00:00.0,274,9114195.91
+300,Nationwide Supply,00:00.0,00:00.0,274,9114195.91
+358,Quality Bike Sales,00:00.0,00:00.0,274,9114195.91
+350,Twin Cycles,00:00.0,00:00.0,274,9114195.91
+1370,Liquidation Sales,00:00.0,00:00.0,274,9114195.91
+1366,Sensible Sports,00:00.0,00:00.0,275,9114195.91
+1342,Global Sports Outlet,00:00.0,00:00.0,274,9114195.91
+1818,Eastward Bike Accessories,00:00.0,00:00.0,274,9114195.91
+1866,Gears and Parts Company,00:00.0,00:00.0,274,9114195.91
+1464,List Price Catalog Company,00:00.0,00:00.0,274,9114195.91
+1038,Bike Part Wholesalers,00:00.0,00:00.0,274,9114195.91
+1042,Popular Bike Lines,00:00.0,00:00.0,274,9114195.91
+1054,Eastside Cycle Shop,00:00.0,00:00.0,275,9114195.91
+1950,Helpful Sales and Repair Service ,00:00.0,00:00.0,274,9114195.91
+1938,Cycle Parts and Accessories,00:00.0,00:00.0,274,9114195.91
+1102,Leisure Clearing House,00:00.0,00:00.0,639,8179116.984
+1116,Area Sheet Metal Supply,00:00.0,00:00.0,639,8179116.984
+1326,Nearby Sporting Goods,00:00.0,00:00.0,639,8179116.984
+1826,Executive Discount Store,00:00.0,00:00.0,92,7850142.864
+1088,Fast Services,00:00.0,00:00.0,274,7847698.75
+836,Active Cycling,00:00.0,00:00.0,90,7214297.874
+1442,Accessories Network,00:00.0,00:00.0,274,7189619.28
+1286,Neighborhood Bicycle Storehouse,00:00.0,00:00.0,274,7189619.28
+1354,Ideal Components,00:00.0,00:00.0,274,6835646.933
+906,Fitness Bike Accessories,00:00.0,00:00.0,274,6835646.933
+690,Kids and Adults Cycle Shop,00:00.0,00:00.0,274,6835646.933
+408,Nearest Bike Store,00:00.0,00:00.0,274,6835646.933
+436,Second Bike Shop,00:00.0,00:00.0,184,6835646.933
+840,Roadway Supplies,00:00.0,00:00.0,92,6597388.988
+856,Action Bicycle Specialists,00:00.0,00:00.0,274,6543293.587
+810,Rampart Amusement Company,00:00.0,00:00.0,274,6543293.587
+596,Metro Metals Co.,00:00.0,00:00.0,274,6543293.587
+1386,Authentic Sales and Service,00:00.0,00:00.0,273,6543293.587
+1284,Instruments and Parts Company,00:00.0,00:00.0,274,6543293.587
+1260,Closest Bicycle Store,00:00.0,00:00.0,274,6543293.587
+1302,Exhibition Showroom,00:00.0,00:00.0,275,6543293.587
+1440,Variety Cycling,00:00.0,00:00.0,274,6543293.587
+1832,Downhill Bicycle Specialists,00:00.0,00:00.0,273,6543293.587
+1140,Express Bike Services,00:00.0,00:00.0,274,6543293.587
+1152,Exceptional Cycle Services,00:00.0,00:00.0,275,6543293.587
+940,Cycles Wholesaler & Mfg.,00:00.0,00:00.0,275,6543293.587
+984,Riding Cycles,00:00.0,00:00.0,274,6543293.587
+1960,Sports Store,00:00.0,00:00.0,548,6543293.587
+1964,Extended Tours,00:00.0,00:00.0,274,6543293.587
+1806,Black Bicycle Company,00:00.0,00:00.0,89,6410028.153
+1466,Seats and Saddles Company,00:00.0,00:00.0,0,5693988.86
+1288,Gear-Shift Bikes Limited,00:00.0,00:00.0,0,5693988.86
+1060,Operational Manufacturing,00:00.0,00:00.0,0,5693988.86
+1144,Retail Discount Store,00:00.0,00:00.0,0,5693988.86
+1196,Weekend Bike Tours,00:00.0,00:00.0,0,5366575.71
+912,Retail Cycle Shop,00:00.0,00:00.0,0,5366575.71
+924,Riding Excursions,00:00.0,00:00.0,0,5366575.71
+834,Functional Store South,00:00.0,00:00.0,274,5231799.167
+830,Showcase for Cycles,00:00.0,00:00.0,273,5231799.167
+636,Bicycle Exporters,00:00.0,00:00.0,275,5231799.167
+770,Best Cycle Store,00:00.0,00:00.0,275,5231799.167
+758,Nearby Bike Mall,00:00.0,00:00.0,274,5231799.167
+582,Excellent Bikes,00:00.0,00:00.0,274,5231799.167
+538,Amalgamated Parts Shop,00:00.0,00:00.0,275,5231799.167
+446,Rodeway Bike Store,00:00.0,00:00.0,274,5231799.167
+420,Capital Riding Supplies,00:00.0,00:00.0,274,5231799.167
+378,Pedaling Components,00:00.0,00:00.0,274,5231799.167
+1198,"Fabrikam Inc., East",00:00.0,00:00.0,275,5231799.167
+1178,Enterprise Center,00:00.0,00:00.0,274,5231799.167
+1250,Next Door Cycles,00:00.0,00:00.0,274,5231799.167
+1160,West Wind Distributors,00:00.0,00:00.0,274,5231799.167
+1076,Rustic Bike Store,00:00.0,00:00.0,274,5231799.167
+1420,Global Bike Retailers,00:00.0,00:00.0,274,5231799.167
+1914,Educational Services,00:00.0,00:00.0,274,5231799.167
+1926,Fitness Toys,00:00.0,00:00.0,274,5231799.167
+1880,Off-Price Bike Center,00:00.0,00:00.0,274,5231799.167
+1892,West Side Mart,00:00.0,00:00.0,274,4907470.19
+1272,Outdoor Aerobic Systems Company,00:00.0,00:00.0,184,4907470.19
+1232,Mail Market,00:00.0,00:00.0,274,4907470.19
+588,Channel Outlet,00:00.0,00:00.0,274,4907470.19
+868,Central Bicycle Specialists,00:00.0,00:00.0,274,4907470.19
+508,Atypical Bike Company,00:00.0,00:00.0,92,4793079.52
+942,Wheels Inc.,00:00.0,00:00.0,274,4793079.52
+514,Widget Bicycle Specialists,00:00.0,00:00.0,0,3925071.432
+610,Mountain Emporium,00:00.0,00:00.0,0,3925071.432
+922,Parts Shop,00:00.0,00:00.0,0,3925071.432
+842,Sensational Discount Store,00:00.0,00:00.0,0,3925071.432
+778,One-Piece Handle Bars,00:00.0,00:00.0,0,3925071.432
+1902,Chain and Chain Tool Distributions,00:00.0,00:00.0,0,3925071.432
+1912,The Cycle Store,00:00.0,00:00.0,0,3925071.432
+1954,Recreation Supplies,00:00.0,00:00.0,0,3925071.432
+1906,Regional Cycle Shop,00:00.0,00:00.0,91,3923849.375
+314,Top of the Line Bikes,00:00.0,00:00.0,274,3923849.375
+1176,Eleventh Bike Store,00:00.0,00:00.0,0,3607148.937
+1904,Mobile Outlet,00:00.0,00:00.0,0,3607148.937
+1128,Retail Sporting Goods,00:00.0,00:00.0,0,3298694.494
+336,Imported and Domestic Cycles,00:00.0,00:00.0,0,3298694.494
+390,Road-Way Mart,00:00.0,00:00.0,0,3298694.494
+430,Center Cycle Shop,00:00.0,00:00.0,0,3298694.494
+528,Parcel Express Delivery Service,00:00.0,00:00.0,0,3298694.494
+1382,Shipping Specialists,00:00.0,00:00.0,90,3271646.793
+1484,Essential Bike Works,00:00.0,00:00.0,274,3271646.793
+1172,Extras Sporting Goods,00:00.0,00:00.0,0,3205014.077
+714,Discount Bicycle Specialists,00:00.0,00:00.0,0,3205014.077
+1432,Good Bicycle Store,00:00.0,00:00.0,92,2615899.583
+972,Major Bicycle Store,00:00.0,00:00.0,0,2278548.978
+894,Jumbo Bikes,00:00.0,00:00.0,0,2278548.978
+1122,Tubeless Tire Company,00:00.0,00:00.0,0,1635823.397
+996,Hometown Riding Supplies,00:00.0,00:00.0,0,1307949.792
+888,Lustrous Paints and Components,00:00.0,00:00.0,0,1307949.792
+578,Rambling Tours,00:00.0,00:00.0,0,1307949.792
