@@ -1,4 +1,4 @@
-# SQL-and-Python-Project-AdventureWork-Sales-Analysis
+# AdventureWork-Sales-Analysis-SQL-and-Python-Project
 
 AdventureWorks Sales Analysis (SQL & Python)
 Project Overview
