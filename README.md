@@ -8,7 +8,7 @@ This project analyses the AdventureWorks sales database using SQL and Python to 
 The project combines SQL for data extraction and transformation with Python for further analysis and visualisation.
 
 
- Business Questions
+Business Questions:
 
 The analysis focuses on answering several key business questions:
 
@@ -20,7 +20,7 @@ Which regions or customer groups contribute the most revenue?
 
 What trends can be observed in customer purchasing behaviour?
 
-Dataset
+Dataset:
 
 The analysis uses the AdventureWorks database, a widely used sample dataset representing a fictional manufacturing and retail company.
 
@@ -77,7 +77,7 @@ Historical sales trends highlight periods of increased demand for particular pro
 
 These findings demonstrate how data analysis can support business performance monitoring and decision-making.
 
-Tools Used
+Tools Used:
 
 SQL Server Management Studio (SSMS)
 
@@ -89,7 +89,7 @@ Pandas
 
 Data visualisation
 
-Skills Demonstrated
+Skills Demonstrated:
 
 SQL querying and relational database analysis
 
