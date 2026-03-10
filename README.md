@@ -79,6 +79,22 @@ Historical sales trends highlight periods of increased demand for particular pro
 
 These findings demonstrate how data analysis can support business performance monitoring and decision-making.
 
+
+## Business Recommendations
+
+Based on the sales analysis, several potential recommendations can be considered:
+
+• High-performing product categories could be prioritised for marketing campaigns and promotional activities to maximise revenue.
+
+• Regions with lower sales performance may benefit from targeted marketing strategies or improved distribution channels.
+
+• Monitoring customer purchasing patterns can help identify opportunities for cross-selling or bundling popular products.
+
+• Sales trends over time can be used to support demand forecasting and inventory planning.
+
+These insights demonstrate how data analysis can support strategic sales planning and business growth.
+
+
 ## Tools Used:
 
 SQL Server Management Studio (SSMS)
