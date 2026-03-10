@@ -7,6 +7,8 @@ This project analyses the AdventureWorks sales database using SQL and Python to 
 
 The project combines SQL for data extraction and transformation with Python for further analysis and visualisation.
 
+![Dashboard Preview](sqlschema.png)
+
 
 ## Business Questions:
 
